@@ -1,5 +1,5 @@
 let trId =0
-let counter = 0;
+let counter = 1;
 function AddRow(){
               trId++
                     $("#tbody").prepend(
